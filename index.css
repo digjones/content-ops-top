@@ -1,0 +1,34 @@
+body  {
+    color: white;
+    background-color: rgb(27, 27, 83);
+    font-family: Arial, Helvetica, sans-serif ;
+}  
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: 18px;
+    padding: 18px;
+
+    }
+
+    a {
+        color: beige;
+        text-decoration: none;
+    }
+
+    img {
+        width: 150px;
+        height: 150px;
+        border-radius: 60%;
+        border: 5px solid; color: rgb(15, 121, 115) ;
+    }
+
+    .center {
+        text-align: center;
+    }
+
+    h1 {
+        color: rgb(15, 121, 115);
+    }

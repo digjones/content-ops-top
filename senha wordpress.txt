@@ -1,0 +1,15 @@
+Conta de administrador
+Nome de usuário do administrador
+admmendes
+
+Senha do administrador
+Bicudo72#@
+Forte (65/100) Esconder
+E-mail do administrador
+alexandremendes385@gmail.com
+
+
+
+O WordPress foi instalado com sucesso em:
+http://tecnologia-acessivel.rf.gd
+URL administrativa: http://tecnologia-acessivel.rf.gd/wp-admin/

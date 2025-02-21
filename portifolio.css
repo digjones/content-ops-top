@@ -1,0 +1,40 @@
+body  {
+  color: white;
+  background-color:rgb(27, 27, 83);
+  font-family: Arial, Helvetica, sans-serif ;
+  padding: 0;
+  margin: 0;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  align-items: 18px;
+  padding: 18px;
+
+ }
+
+
+
+
+h1 {
+  font-size: 5e;
+  color: white;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  position: static;
+
+}
+
+a {
+  color: beige;
+  text-decoration: none;
+  align-items: center;
+}
+
+
+
+
